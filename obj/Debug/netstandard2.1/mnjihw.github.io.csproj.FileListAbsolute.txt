@@ -178,7 +178,6 @@ C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.RazorTargetAssemblyInfo.cache
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.csproj.CopyComplete
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\LbossuXmbfDfj8-9S8YthruiNxsvEPwCwIxpUF6qfrI=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\TcD6CDQmVJW_S1Pyq3DDHXdURcg0mSA4WaeC8Y-B3ag=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\EaMJYppL5C8nFKu-Ez2FP9DVQ7RMSKNxzY0MQV-BSAo=.hash
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\compressed\_framework\_bin\mnjihw.github.io.dll.gz
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,6 @@ C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\staticwebassets\mnjihw.github.io.StaticWebAssets.xml
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.dll
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.pdb
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\a6kSKKDxlQM0IaSA2WCF1GmO5Tub4S5BCf8huQj0q4Q=.hash
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\YmFxqFu6LGQnGI7jWzKMSO6inluHXwGhY0rS_t-NAo0=.hash
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\bk-cnsTkrMhGYuwljEQisTkh3cP0kWetQM1MJqlJ6r8=.hash
