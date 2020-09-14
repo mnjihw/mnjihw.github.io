@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\a6kSKKDxlQM0IaSA2WCF1GmO5Tub4S5BCf8huQj0q4Q=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\MYcyt1ITV3RzE-Vp-HsvVBpA-acuC2BfoV69zw1J7cs=.hash",
       "Source": "C:\\Users\\mnjihw\\Documents\\Visual Studio 2019\\Projects\\mnjihw.github.io\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mnjihw.github.io.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/mnjihw.github.io.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YmFxqFu6LGQnGI7jWzKMSO6inluHXwGhY0rS_t-NAo0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\gqqrvHiiKsTO4BwmqBOYvWKlbC6-NksPHlR4v5Wf1_g=.hash",
       "Source": "C:\\Users\\mnjihw\\Documents\\Visual Studio 2019\\Projects\\mnjihw.github.io\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mnjihw.github.io.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/mnjihw.github.io.pdb.br"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bk-cnsTkrMhGYuwljEQisTkh3cP0kWetQM1MJqlJ6r8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\e5VURzRQTOeg3CJAN1YViUSeO9UIEFDXlI5pL0EAjlA=.hash",
       "Source": "C:\\Users\\mnjihw\\Documents\\Visual Studio 2019\\Projects\\mnjihw.github.io\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
