@@ -1,4 +1,3 @@
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\bin\Debug\netstandard2.1\Properties\launchSettings.json
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\bin\Debug\netstandard2.1\mnjihw.github.io.StaticWebAssets.xml
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\bin\Debug\netstandard2.1\mnjihw.github.io.dll
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\bin\Debug\netstandard2.1\mnjihw.github.io.pdb
@@ -354,6 +353,8 @@ C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\staticwebassets\mnjihw.github.io.StaticWebAssets.xml
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.dll
 C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.pdb
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\ppUS7g4CQMqdOtQ3tMZ6_34CVLL_HEqujIvGxdKxQq4=.hash
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\cMMs91bJT2j8u9S3Ra_1Y8oX-0oesCCkPBWkWfEuRHU=.hash
-C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\X32ab-P6Z4qdWvZftBmhCrk_Svn67-Uj2O5q80d0o5s=.hash
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\mnjihw.github.io.RazorComponent.output.cache
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\scopedcss\bundle\mnjihw.github.io.styles.css
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\JZl6kaubuMccgNEWTjV_Y8-extQcwPfBY6sHqb2JDLk=.hash
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\p0Occ0eh61pgDVLNrvu7NuLQMulAU2jhULqgxXFYmJs=.hash
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\mnjihw.github.io\obj\Debug\netstandard2.1\integrity\_157qNw-eYPlXSwK4uO1cRqfu6ayVP5XB1on1SfNlBs=.hash

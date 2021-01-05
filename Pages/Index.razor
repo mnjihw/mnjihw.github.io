@@ -1,8 +1,33 @@
 ﻿@page "/"
 
-<h1>Hello, world! HI</h1>
-안녕하세용 ㅋzzz
+@inject Random Random
 
-Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+
+@for (int i = 0; i < 5; ++i)
+{
+    int j = i;
+<button class="btn btn-outline-dark" @onclick="eventargs => A(eventargs, j)">
+    @Output[i]
+</button>
+    
+}
+
+@code {
+
+    private List<int> Numbers { get; set; }
+    private List<string> Output { get; } = Enumerable.Repeat("뽑기", 5).ToList();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Numbers = Enumerable.Range(1, 10).OrderBy(x => Random.Next()).Take(5).OrderBy(x => x).ToList();
+        
+        Console.WriteLine("머짐");
+    }
+
+    private void A(MouseEventArgs e, int i)
+    {
+        Output[i] = Numbers[i].ToString();
+        
+    }
+}
